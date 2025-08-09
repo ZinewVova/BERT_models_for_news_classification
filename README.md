@@ -4,7 +4,8 @@
   * Sports (Спорт)
   * Business (Бизнес)
   * Sci/Tech (Наука/Технологии)
-    
+  <img width="323" height="284" alt="image" src="https://github.com/user-attachments/assets/218e5957-b97a-4b3c-a6f5-e1edd2075a10" />
+  
 
 Этапы работы
 1. Предобработка текста
